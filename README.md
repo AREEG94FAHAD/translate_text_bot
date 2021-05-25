@@ -5,7 +5,7 @@
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
 # live demo
-@@voice_to_text_areeg_bot
+@voice_to_text_areeg_bot
 
 # Features
 - translate text EN->AR and AR->EN
