@@ -1,0 +1,15 @@
+﻿certifi==2020.12.5
+chardet==4.0.0
+ibm-cloud-sdk-core==3.10.0
+ibm-watson==5.1.0
+idna==2.10
+numpy==1.20.3
+pandas==1.2.4
+PyJWT==2.1.0
+pyTelegramBotAPI==3.7.6
+python-dateutil==2.8.1
+pytz==2021.1
+requests==2.25.1
+six==1.16.0
+urllib3==1.26.4
+websocket-client==0.48.0
