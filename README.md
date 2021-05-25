@@ -5,7 +5,7 @@
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
 # live demo
-@voice_to_text_areeg_bot
+@txt_tran_arg_bot
 
 # Image
 ![ttot](https://user-images.githubusercontent.com/30151596/119551006-c9ebf300-bda1-11eb-84eb-bbf6357b873e.jpg)
