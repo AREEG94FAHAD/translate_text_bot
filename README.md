@@ -1,6 +1,6 @@
 # A telegram bot to text translate
-📜EN ➡️ 📜AR 
-📜AR ➡️ 📜EN
+- 📜EN ➡️ 📜AR 
+- 📜AR ➡️ 📜EN
 
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
