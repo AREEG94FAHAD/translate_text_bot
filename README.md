@@ -5,8 +5,6 @@
 for more details vist [IBM Waston](https://www.ibm.com/cloud/watson-text-to-speech)
 
 
-# Image
-![ttot](https://user-images.githubusercontent.com/30151596/119551006-c9ebf300-bda1-11eb-84eb-bbf6357b873e.jpg)
 
 
 
@@ -43,6 +41,9 @@ python txtTran.py
 - [Python Basics for Data Science](https://www.edx.org/new/course/python-basics-for-data-science)
 - [github/pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
 - [The Telegram Chat Group](https://telegram.me/joinchat/Bn4ixj84FIZVkwhk2jag6A)
+
+# Image
+![ttot](https://user-images.githubusercontent.com/30151596/119551006-c9ebf300-bda1-11eb-84eb-bbf6357b873e.jpg)
 
 # Contact me 
 Areeg94Fahad@gmail.com
