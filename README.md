@@ -1,4 +1,4 @@
-# A telegram bot to text translate
+# text translator
 - 📜EN ➡️ 📜AR 
 - 📜AR ➡️ 📜EN
 
